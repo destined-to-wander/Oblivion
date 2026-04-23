@@ -1,0 +1,6 @@
+{
+  "parent": "oblivion:item/stardust_conflagration_in_hand",
+  "textures": {
+    "layer0": "oblivion:item/in_hand/stardust_conflagration_charged"
+  }
+}

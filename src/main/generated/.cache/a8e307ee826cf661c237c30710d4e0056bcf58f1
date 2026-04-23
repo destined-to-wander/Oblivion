@@ -1,0 +1,3 @@
+// 1.20.1	2026-01-30T13:33:19.896025	Oblivion/Tags for minecraft:damage_type
+f80cc31fcb62798e5440da33699c96c6b2a94e39 data/minecraft/tags/damage_type/is_projectile.json
+d009564b53aee761c2941d764d9282a98f2ac8b2 data/minecraft/tags/damage_type/bypasses_cooldown.json

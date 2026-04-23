@@ -1,0 +1,29 @@
+{
+  "itemgroup.oblivion": "Oblivion",
+
+  "item.oblivion.stardust": "Stardust",
+  "item.oblivion.stardust_conflagration": "Stardust Conflagration",
+
+  "entity.oblivion.star_shard": "Star Shard",
+  "entity.oblivion.vitrium_shard": "Vitrium Shard",
+
+  "death.attack.vitrification": "%1$s shattered like glass",
+  "death.attack.soul_shattered": "%1$s's existence was resolved",
+  "death.attack.dissonant": "%1$s was torn apart by cosmic energies",
+  "death.attack.resonant": "%1$s reached their resonant frequency",
+  "death.attack.discharge": "The stored energy in %1$s was released",
+
+  "enchantment.oblivion.desolation": "Desolation",
+  "enchantment.oblivion.desolation.desc": "Fires a star shard that sheds fragments behind as it flies",
+  "enchantment.oblivion.vitrification": "Vitrification",
+  "enchantment.oblivion.vitrification.desc": "Fires a fragile star shard that splits into vitrium shards on impact",
+  "enchantment.oblivion.ricochet": "Ricochet",
+  "enchantment.oblivion.ricochet.desc": "Fires a bouncing star shard",
+
+  "block.oblivion.celestial_accumulate": "Celestial Accumulate",
+  "item.oblivion.conflagration.projectile": "Projectile:",
+
+  "effect.oblivion.resonant": "Resonant",
+  "effect.oblivion.dissonant": "Dissonant",
+  "effect.oblivion.soul_shattered": "Soul Shattered"
+}

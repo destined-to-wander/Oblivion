@@ -1,0 +1,6 @@
+{
+  "parent": "oblivion:item/stardust_conflagration_inventory",
+  "textures": {
+    "layer0": "oblivion:item/inventory/stardust_conflagration_pulling_0"
+  }
+}

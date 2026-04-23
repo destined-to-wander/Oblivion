@@ -1,0 +1,21 @@
+{
+	"required": true,
+	"package": "destinedtowander.oblivion.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"EnchantmentMixin",
+		"StarShardTrailRenderer",
+		"StarShardEmissiveEnforcer",
+		"ServerPlayerInteractionManagerMixin",
+		"BrimstoneRenderEventMixin",
+		"client.InGameHudAccessor",
+		"client.ClientPlayerInteractionManagerMixin",
+		"client.InGameHudMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

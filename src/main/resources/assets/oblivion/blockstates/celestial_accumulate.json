@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "accumulation_level=stellar,dusted=3": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=stellar,dusted=2": {
+      "model": "oblivion:block/starsparked_accumulate"
+    },
+    "accumulation_level=stellar,dusted=1": {
+      "model": "oblivion:block/starcharged_accumulate"
+    },
+    "accumulation_level=stellar,dusted=0": {
+      "model": "oblivion:block/stellar_accumulate"
+    },
+    "accumulation_level=starcharged,dusted=0": {
+      "model": "oblivion:block/starcharged_accumulate"
+    },
+    "accumulation_level=starsparked,dusted=0": {
+      "model": "oblivion:block/starsparked_accumulate"
+    },
+    "accumulation_level=mundane,dusted=0": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=mundane,dusted=1": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=mundane,dusted=2": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=mundane,dusted=3": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=starsparked,dusted=1": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=starsparked,dusted=2": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=starsparked,dusted=3": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=starcharged,dusted=1": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=starcharged,dusted=2": {
+      "model": "oblivion:block/celestial_accumulate"
+    },
+    "accumulation_level=starcharged,dusted=3": {
+      "model": "oblivion:block/celestial_accumulate"
+    }
+  }
+}
